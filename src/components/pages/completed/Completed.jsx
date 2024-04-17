@@ -3,7 +3,7 @@ import React from "react";
 const Completed = () => {
   return (
     <>
-      <section className=" flex flex-col gap-5 items-center justify-center h-full  w-full">
+      <section className=" flex flex-col gap-5 items-center justify-center h-full    w-full">
         <section>
           <img src="/icon-thank-you.svg" alt="" />
         </section>{" "}
